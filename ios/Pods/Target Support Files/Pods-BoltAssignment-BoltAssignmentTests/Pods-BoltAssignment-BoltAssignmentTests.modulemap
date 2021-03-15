@@ -1,0 +1,6 @@
+module Pods_BoltAssignment_BoltAssignmentTests {
+  umbrella header "Pods-BoltAssignment-BoltAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

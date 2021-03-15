@@ -1,0 +1,6 @@
+module Pods_BoltAssignment {
+  umbrella header "Pods-BoltAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
